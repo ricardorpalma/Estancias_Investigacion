@@ -18,3 +18,5 @@
   ## Sala de reunion
 
   [Sala virtual](https://demo.bigbluebutton.org/rooms/8mo-xx6-k04-pqz/join)
+
+[Asegurate de sincronicar tu reloj para las reuniones con esta hora local](https://time.is/Villa_Nueva,_Mendoza_Province)
